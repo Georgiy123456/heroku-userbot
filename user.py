@@ -1,3 +1,5 @@
+#Made by Georgiy Mintenko(Github profile:George123456)
+#07.11.2020
 from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
 
